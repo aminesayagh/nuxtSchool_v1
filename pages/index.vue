@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        school1
+        school1ff
       </h1>
       <div class="links">
         <a
@@ -20,10 +20,12 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          Schoolss
         </a>
+        
       </div>
     </div>
+    <NuxtLink to="/dashboard/">School</NuxtLink>
   </div>
 </template>
 
